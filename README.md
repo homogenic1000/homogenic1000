@@ -1,19 +1,21 @@
-# Welcome to my page 
+# hiii everyone
+
+## about me
 
 
-<img src="https://your-image-url.com/banner.png" width="100%">
-
-## 🌟 About me 
+## 🌟 in brief
 - 📚 studying interactive media design at ERACOM
 - 💻 love web devloppement & graphic design
-- <img src="https://media-s3-us-east-1.ceros.com/editorial-content/images/2017/10/17/95fa108d694ef9d8f4a0257e25dcf5ff/596327.png" width="4%"> biggest björk stan
+- ⛲ im a fountain of blood in shape of girl
 
-## 🛠️ Mes outils préférés  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Blender](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![InDesign](https://img.shields.io/badge/-InDesign-49021F?style=for-the-badge&logo=adobe-indesign&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+## 🛠️ my toolbox
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
-## 📊 Mes statistiques GitHub  
+
+
+
+
 
