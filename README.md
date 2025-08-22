@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦦 my name is Mathéo<br>📚 im an interactive media design student<br>💻 i love web devloppement and grapic design
+🦦 my name is Mathéo<br>📚 im an interactive media design student<br>💻 i love web devloppement/design and graphic design
 
 
 ## 🌐 Socials:
