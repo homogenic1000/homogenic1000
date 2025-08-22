@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦦 my name is Mathéo<br>📚 im an interactive media design student<br>💻 i love web devloppement and grapic design<br>⛲️ im a fountain of blood in a Shane of a girl<br>
+🦦 my name is Mathéo<br>📚 im an interactive media design student<br>💻 i love web devloppement and grapic design
 
 
 ## 🌐 Socials:
